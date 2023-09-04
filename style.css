@@ -1,0 +1,59 @@
+html {
+  zoom: 90%;
+}
+
+.css-zbg2rx {
+  height: 100%;
+}
+
+.css-nlntq9 a:not(div ul li a) {
+  color: #FFFFFF !important;
+  text-decoration: none;
+  font-size: 1.4em;
+  margin: 0 52px;
+}
+
+div ul li a {
+  color: #FFFFFF !important;
+  text-decoration: none;
+  margin-left: 5px;
+}
+
+.css-119ihf6 {
+  z-index: 999 !important;
+  margin-bottom: 1000px;
+  color: rgba(49, 51, 63, 0.4);
+}
+
+#title-1z2x {
+  font-weight: bolder;
+  font-size: calc(1rem + 1.5vw);
+  line-height: 1.2;
+  font-family: "Source Sans Pro", sans-serif;
+  margin-top: -20px;
+}
+
+#caption-1z2x {
+  font-family: "Source Code Pro", monospace;
+  white-space: pre;
+  font-size: 16px;
+  overflow-x: auto;
+  margin-top: -18px;
+}
+
+#ifno-result li, #ifno-result p {
+  color: #6E6E6E;
+  margin: 0 32%;
+}
+
+#ifno-result {
+  margin-top: -20px;
+}
+
+#recommendation-1z2x {
+  font-weight: bolder;
+  font-size: calc(1.275rem + .3vw);
+  line-height: 1.2;
+  font-family: "Source Sans Pro", sans-serif;
+  margin-bottom: 10px;
+}
